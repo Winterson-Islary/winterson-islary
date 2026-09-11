@@ -9,4 +9,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=winterson-islary&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=winterson-islary&theme=radical&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=winterson-islary&theme=radical&hide_border=true&border_radius=0)
